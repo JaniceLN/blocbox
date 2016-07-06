@@ -41,3 +41,10 @@ html, body{
    min-height: 1px;
    margin:0 2% 20px;
  }
+
+ <head>
+   <link rel="stylesheet" href="animate.min.css">
+
+<h1 class="animated FadeInRightBig">Example</h1>
+
+</head>
