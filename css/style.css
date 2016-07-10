@@ -2,11 +2,11 @@ html, body{
    overflow-x: hidden;
  }
  body {
-   font-family: "Lato", Helvetica, Arial, sans-serif;
+   font-family: "Bitter", Helvetica, Arial, sans-serif;
    color:#333333;
  }
  h1, h2, h3, h4, h5, h6 {
-   font-family: "Varela Round", Helvetica, Arial, sans-serif;
+   font-family: "Raleway", Helvetica, Arial, sans-serif;
  }
  h2 {
    font-size:28px;
@@ -71,8 +71,8 @@ html, body{
  /* HEADER */
  header {
    color:#FFFFFF;
-   background: #34495E;
-   background-image: linear-gradient(206deg, #5F81A3 0%, #34495E 94%);
+   background: #1B0D2E;
+   background-image: linear-gradient(206deg, #4F1E87 0%, #1B0D2E 94%);
  }
  header nav {
    padding:1em 0;
@@ -132,7 +132,7 @@ html, body{
    font-weight: 700;
    text-decoration: none;
    padding:10px 30px;
-   background: #2ECC71;
-   border: 2px solid #2ECC71;
-   box-shadow: 0px 2px 0px 0px #22894E;
+   background: #A8C030;
+   border: 2px solid #9B9B9B;
+   box-shadow: 0px 2px 0px 0px #5C6823;
  }
