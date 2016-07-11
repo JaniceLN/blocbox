@@ -295,6 +295,6 @@ background-image: linear-gradient(206deg, #4F1E87 7%, #1B0D2E 100%);
    font-size:13px;
    margin-top: 30px;
  }
- .testimonials p.staggered {
+ .testimonials div.staggered {
    top: 20px;
  }
