@@ -73,6 +73,13 @@ html, body{
      width: 1170px;
    }
  }
+/* Large screens ----------- */
+@media only screen and (min-width : 1824px) {
+   .container {
+     width: 1800px;
+   }
+}
+/* Styles */
 
  /* HEADER */
  header {
@@ -130,6 +137,7 @@ background-image: linear-gradient(206deg, #4F1E87 7%, #1B0D2E 100%);
  header .hero img {
    display: block;
    margin:3em auto 0;
+   max-width: 100%;
  }
 
   /* BUTTONS */
