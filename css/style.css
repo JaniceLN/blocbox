@@ -73,6 +73,21 @@ html, body{
      width: 1170px;
    }
  }
+<<<<<<< Updated upstream
+=======
+/* Large screens ----------- */
+@media only screen and (min-width : 1824px) {
+   .container {
+     width: 1800px;
+   }
+  h1 {
+    font-size:220%;
+  }
+}
+
+
+/* Styles */
+>>>>>>> Stashed changes
 
  /* HEADER */
  header {
