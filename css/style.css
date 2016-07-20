@@ -405,9 +405,12 @@ padding:0;
   font-weight: 100;
 }
 .left-nav .items ul li a i {
+  :active {
+    background-color: #A8C030;
   width: 16px;
   text-align: center;
   margin-right: 8px;
+}
 }
 /* LEFT NAVBAR SETTINGS */
 
@@ -441,9 +444,6 @@ padding:0;
    float: right;
    margin-right:10px;
    margin-top:8px;
- }
- .left-nav .settings li {
-  color:"All Items" #A8C030;
  }
 
 
@@ -562,6 +562,12 @@ padding:0;
   line-height:18px;
   margin:5px 0 0;
  }
- .left-nav .items li a:active {
+ .left-nav .items li a:hover {
+  background-color: #FFFFFF;
+ } 
+.left-nav .items li a:active {
   background-color: #A8C030;
+ } 
+ .left-nav .items li a:visited {
+  background-color: #4F1E87x;
  } 
