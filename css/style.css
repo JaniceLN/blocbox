@@ -410,6 +410,7 @@ padding:0;
   margin-right: 8px;
 }
 /* LEFT NAVBAR SETTINGS */
+
  .left-nav .settings {
    position:absolute;
    background:#050430;
@@ -441,6 +442,11 @@ padding:0;
    margin-right:10px;
    margin-top:8px;
  }
+ .left-nav .settings li {
+  color:"All Items" #A8C030;
+ }
+
+
 
  /* CONTENT */
  .content {
@@ -556,3 +562,6 @@ padding:0;
   line-height:18px;
   margin:5px 0 0;
  }
+ .left-nav .items li a:active {
+  background-color: #A8C030;
+ } 
