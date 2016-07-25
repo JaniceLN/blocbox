@@ -564,6 +564,7 @@ padding:0;
     float: left;
     display: block;
   }
+}
   @media (min-width: 768px) {
     .content {
       padding: 1.5em 5%;
@@ -578,6 +579,7 @@ padding:0;
         width:31.333333%;
         margin: 0 1% 25px;
       }
+    }
     @media (min-width: 992px) {
       .content {
         padding: 1.5em 1%;
