@@ -403,7 +403,6 @@ background-image: linear-gradient(206deg, #4F1E87 7%, #1B0D2E 100%);
    left: 5px;
    top: 15px;
  }
-}
 @media (min-width:992px) {
    .left-nav {
      height: 100vh;
