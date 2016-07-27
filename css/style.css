@@ -51,7 +51,17 @@ html, body{
 
  @media (min-width: 768px) {
    .container {
-     width: 750px;
+     width: 85%;
+   }
+ }
+ .one-half {
+     width:46%;
+   }
+   .one-third {
+     width:29.33333%;
+   }
+   .one-fourth {
+     width:21%;
    }
  }
  @media (min-width: 992px) {
@@ -68,11 +78,7 @@ html, body{
      width:21%;
    }
  }
- @media (min-width: 1200px) {
-   .container {
-     width: 1170px;
-   }
- }
+
 /* Large screens ----------- */
 @media only screen and (min-width : 1824px) {
    .container {
